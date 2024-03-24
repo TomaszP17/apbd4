@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=72364726_002D3116_002D4019_002DA054_002D6E9AF98BB046/@EntryIndexedValue">LegacyApp.Tests</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=de0d54df_002Da1c6_002D4ddb_002D92ec_002Ddba8d8a3eaa3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddUser_Should_Return_When_FirstName_Is_Missing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::14D87943-6C65-4986-80FC-0ABAE66DE4B3::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_False_When_LastName_Is_Missing&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14D87943-6C65-4986-80FC-0ABAE66DE4B3::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_False_When_FirstName_Is_Missing&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14D87943-6C65-4986-80FC-0ABAE66DE4B3::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Return_False_When_Email_Is_Incorrect&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14D87943-6C65-4986-80FC-0ABAE66DE4B3::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Throw_ArgumentException_When_User_Doesnt_Exist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14D87943-6C65-4986-80FC-0ABAE66DE4B3::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Returns_False_When_User_Is_Under_21&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14D87943-6C65-4986-80FC-0ABAE66DE4B3::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Returns_True_When_Client_Is_Very_Important&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14D87943-6C65-4986-80FC-0ABAE66DE4B3::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Returns_True_When_Client_Is_Important&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::14D87943-6C65-4986-80FC-0ABAE66DE4B3::net8.0::LegacyApp.Tests.UserServiceTest.AddUser_Should_Returns_False_When_Client_Has_Too_Lower_Credit_Limit&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
